@@ -2,9 +2,10 @@
 	"email": "",
 	"password": "",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
-	"prefix": "#",
+	"adminBot": [100062841025364]
+	[100086482766438],
+	"nickNameBot": "ROSE-CHATBOT",
+	"prefix": "/",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
